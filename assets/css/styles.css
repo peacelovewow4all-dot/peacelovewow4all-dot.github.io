@@ -1,6 +1,6 @@
 /* Personal site (Dr. Mintesnot Gizaw) — clean, professional, responsive */
 :root{
-  --bg: #050a10;
+  --bg: #06120d;
   --panel: rgba(255,255,255,.06);
   --panel2: rgba(255,255,255,.08);
   --border: rgba(255,255,255,.12);
@@ -8,7 +8,8 @@
   --muted: rgba(255,255,255,.72);
   --muted2: rgba(255,255,255,.58);
   --shadow: 0 18px 55px rgba(0,0,0,.45);
-.avatar-img{
+.avatar-img}
+
   width: 92px;
   height: 92px;
   border-radius: 24px;
