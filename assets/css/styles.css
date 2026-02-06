@@ -8,6 +8,13 @@
   --muted: rgba(255,255,255,.72);
   --muted2: rgba(255,255,255,.58);
   --shadow: 0 18px 55px rgba(0,0,0,.45);
+.avatar-img{
+  width: 92px;
+  height: 92px;
+  border-radius: 24px;
+  object-fit: cover;
+  display: block;
+}
 
   /* accents */
   --primary: #00B3FF;
