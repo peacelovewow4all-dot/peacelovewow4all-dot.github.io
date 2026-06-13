@@ -1,0 +1,12 @@
+{
+  "name": "Dr. Mintesnot Gizaw — Waste-to-Energy Portfolio",
+  "short_name": "Mintesnot WtE",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f2e9",
+  "theme_color": "#0b2d25",
+  "icons": [
+    {"src":"assets/images/icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"assets/images/icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
